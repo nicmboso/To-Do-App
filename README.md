@@ -9,5 +9,5 @@ the body, header, todo-container, input-container, todo-input, add-task-button, 
 A Javascript file helps to add functionalities which includes-  
 to create new task, delete task, cross out task, add event listeners, setup sample tasks etc.
 
-App Snapshot:
+Snapshot of the App:  
 ![image](https://github.com/nicmboso/To-Do-App/assets/160390032/00e7d6cf-7ec8-49d0-8e8e-fb4a0e9ca4c7)
