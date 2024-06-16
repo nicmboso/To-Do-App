@@ -2,8 +2,8 @@
 
 A to-do-list web appplication with HTML, CSS and Javascript.
 
-Features:
-Create a webpage and a Add Task button with HTML  
+Features:  
+Create a webpage and a Add Task button with HTML    
 Use CSS to style the different sections of the html webpage-   
 the body, header, todo-container, input-container, todo-input, add-task-button, todo-list and chaining classes in CSS  
 A Javascript file helps to add functionalities which includes-  
